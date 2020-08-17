@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="FatCustomRecipes" />
+		<Description value="Allows crafting of certain items" />
+		<Author value="F4tjs"/>
+		<Version value="1.03" />
+		<Website value="https://steamcommunity.com/id/f4tjs/" />
+	</ModInfo>
+</xml>
